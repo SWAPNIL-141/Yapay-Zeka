@@ -1,2 +1,0 @@
-# Yapay-Zeka
-Ders
